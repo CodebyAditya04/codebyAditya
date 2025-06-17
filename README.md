@@ -1,6 +1,6 @@
 # 👨‍💻 Python Learning Journey
 
-Welcome to my Python learning repository! This is where I document and practice my journey into coding with Python. The goal is not to be perfect — but to **show real progress** step by step.
+Welcome to my Python learning repository! This is where I document and practice my journey into coding with Python. The goal is not to be perfect — but to **make real progress** step by step.
 
 ---
 
