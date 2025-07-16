@@ -1,3 +1,4 @@
+# Find smallest and largest number in list without using built-in functions
 # List of numbers to check
 numbers = [25, 10, 40, 5, 60]
 
