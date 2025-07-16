@@ -1,3 +1,4 @@
+# Print numbers greater than average from list
 # List of numbers to work with
 numbers = [10,20,30,40,50]
 
