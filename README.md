@@ -1,52 +1,68 @@
-# 👨‍💻 Python Learning Journey
+# 🐍 Python Practice & Projects Repository
 
-Welcome to my Python learning repository! This is where I document and practice my journey into coding with Python. The goal is not to be perfect — but to **make real progress** step by step.
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Repo Size](https://img.shields.io/github/repo-size/CodebyAditya04/codebyAditya)
+![Last Commit](https://img.shields.io/github/last-commit/CodebyAditya04/codebyAditya)
+![License](https://img.shields.io/badge/License-MIT-green)
 
----
-
-## 📚 What You'll Find Here
-
-- ✅ Basic programs (print statements, variables, if-else)
-- ✅ List, Tuple, Set, and Dictionary examples
-- ✅ Beginner-level projects like:
-  - Shopping Cart (List-based)
-  - Student Grade Lookup (Tuples)
-  - Simple Student Gradebook (Dictionaries)
+Welcome to my Python learning journey!  
+This repository contains **practice programs, mini-projects, and experiments** created while building a strong foundation in Python — from basic syntax to functional programming.
 
 ---
 
-## 🧠 Why This Repo Exists
+## 📂 Repository Overview
 
-I created this repo to:
-
-- Practice writing Python code from scratch
-- Track my growth from beginner to intermediate
-- Learn how to debug, write clean code, and use Git/GitHub
+The repository is organized into topic-based folders.  
+Each folder contains multiple small programs focused on a single Python concept.
 
 ---
 
-## 🚧 Work in Progress
+### **✅ Topics Covered So Far**
 
-I'm still learning:
-- Functions & Reusability
-- Loops with nested data structures
-- Error handling
-- Writing clean and readable code
+#### **Strings**
+- Practiced a variety of **string methods** such as `upper()`, `lower()`, `strip()`, `replace()`, `split()`, `join()`, `find()`, `count()`, etc.
+- Programs include: palindrome checkers, substring search, word frequency, and formatting exercises.
+
+#### **Lists**
+- Manual list reversal without built-in functions
+- Frequency of each element  
+- Finding the second largest number  
+- Removing duplicates  
+- Sorting techniques (manual & using `sort()`/`sorted()`)
+
+#### **Dictionaries**
+- Initial exploration of dictionary basics (adding, updating, deleting key-value pairs)  
+- Work in progress — more programs to be added soon
+
+#### **Conditionals**
+- Simple and nested `if-else` programs  
+- Decision-making exercises with multiple conditions
+
+#### **Loops**
+- `for` loops, `while` loops  
+- Range-based iterations, nested loops, and loop control statements (`break`, `continue`, `pass`)
+
+#### **Functions**
+- Yet to be fully explored — planned for upcoming updates
 
 ---
 
-## 📌 Note to Viewers
+## 🛠 Mini Projects
 
-This is a **learning diary** — some code may look basic, and some more advanced. I might jump ahead at times, but every program here was written with effort and understanding.
-
-Feel free to explore, suggest improvements, or just say hi!
-
----
-
-## 💬 Feedback
-
-I'm open to constructive feedback or suggestions. Learning is better with a community!
+- **Calculator (Loop-Based)** — Continuously performs calculations until the user exits  
+- **Calculator (If-Else Based)** — Basic arithmetic operations using conditional branching
+- **Shopping cart (List operations, Loops-Based)** — Performs actions based off of users choices
+- More small projects to be added as learning progresses
 
 ---
 
-### ⭐ Thanks for Visiting!
+---
+> **"Code is like humor. When you have to explain it, it’s bad."**  
+> — *Cory House*
+---
+
+## 🚀 How to Run
+
+Clone the repository:
+```bash
+git clone https://github.com/CodebyAditya04/codebyAditya.git
