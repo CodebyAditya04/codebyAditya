@@ -55,10 +55,8 @@ Each folder contains multiple small programs focused on a single Python concept.
 - More small projects to be added as learning progresses
 
 ---
-
 ---
-> **"Code is like humor. When you have to explain it, it’s bad."**  
-> — *Cory House*
+💡 **"Code is like humor. When you have to explain it, it’s bad."** — *Cory House*
 ---
 
 ## 🚀 How to Run
