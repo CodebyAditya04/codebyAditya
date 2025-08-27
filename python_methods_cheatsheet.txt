@@ -1,0 +1,70 @@
+📝 Python Cheat Sheet (Essentials for You Right Now)
+🔹 Dictionary methods
+
+dict.get(key, default) → returns value if key exists, else default
+
+dict.keys() → returns all keys
+
+dict.values() → returns all values
+
+dict.items() → returns key–value pairs
+
+max(dict, key=dict.get) → gives key with max value
+
+min(dict, key=dict.get) → gives key with min value
+
+🔹 List methods
+
+append(x) → add to end
+
+extend([x,y]) → add multiple
+
+insert(i, x) → add at position
+
+remove(x) → remove first occurrence
+
+pop(i) → remove at index (or last if no index given)
+
+sort() → sort in place
+
+sorted(list) → returns a new sorted list
+
+reverse() → reverse list
+
+count(x) → frequency of x
+
+index(x) → position of x
+
+🔹 String methods
+
+lower() / upper() / title() → change case
+
+strip() → remove spaces at ends
+
+split() → split into list
+
+join(list) → join list into string
+
+replace("a", "b") → replace all a with b
+
+find("x") → index of x (or -1 if not found)
+
+startswith("x") / endswith("x") → True/False
+
+🔹 Useful built-in functions
+
+len(x) → length
+
+sum(list) → sum of numbers
+
+max(list) / min(list) → biggest/smallest
+
+sorted(list) → sorted version
+
+range(start, stop, step) → number sequence
+
+type(x) → data type
+
+input() → take input
+
+print() → print to console
