@@ -1,0 +1,10 @@
+from itertools import zip_longest
+
+# Lists of keys and values
+keys = ["Aditya", "Aditi", "Rohit", "Kamal"]
+values = [100, 98]
+
+# itertools.zip_longest() → pairs elements until the longest list ends, filling missing values with None
+merged_dict = dict(zip_longest(keys, values, fillvalue="NA"))
+
+print("Dictionary after merging two unequal lists:", merged_dict)
