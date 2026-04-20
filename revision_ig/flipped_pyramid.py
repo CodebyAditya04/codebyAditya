@@ -13,4 +13,4 @@ for i in range(5, 0, - 1):               # Rows (5 to 1)
 
 # I reversed the outer loop, so i goes from 5 to 1.
 # Because i is decreasing, 2*i - 1 naturally gives decreasing stars (9 to 1).
-# At the same time, n - i automatically increases, so spaces increase without changing that line.
+# At the same time, n - i automatically increases, so spaces increase without changing that line.(increasing and decreasing order depends on i)
